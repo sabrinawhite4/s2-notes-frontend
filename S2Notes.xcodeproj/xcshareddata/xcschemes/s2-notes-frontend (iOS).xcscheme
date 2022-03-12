@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "048D42FF27D47EA8005EE461"
-               BuildableName = "s2-notes-frontend.app"
-               BlueprintName = "s2-notes-frontend (iOS)"
-               ReferencedContainer = "container:s2-notes-frontend.xcodeproj">
+               BuildableName = "S2Notes.app"
+               BlueprintName = "S2Notes (iOS)"
+               ReferencedContainer = "container:S2Notes.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "048D430C27D47EA8005EE461"
                BuildableName = "Tests iOS.xctest"
                BlueprintName = "Tests iOS"
-               ReferencedContainer = "container:s2-notes-frontend.xcodeproj">
+               ReferencedContainer = "container:S2Notes.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "048D42FF27D47EA8005EE461"
-            BuildableName = "s2-notes-frontend.app"
-            BlueprintName = "s2-notes-frontend (iOS)"
-            ReferencedContainer = "container:s2-notes-frontend.xcodeproj">
+            BuildableName = "S2Notes.app"
+            BlueprintName = "S2Notes (iOS)"
+            ReferencedContainer = "container:S2Notes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "048D42FF27D47EA8005EE461"
-            BuildableName = "s2-notes-frontend.app"
-            BlueprintName = "s2-notes-frontend (iOS)"
-            ReferencedContainer = "container:s2-notes-frontend.xcodeproj">
+            BuildableName = "S2Notes.app"
+            BlueprintName = "S2Notes (iOS)"
+            ReferencedContainer = "container:S2Notes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -83,6 +83,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "S2 Notes"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
